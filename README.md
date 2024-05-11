@@ -1,21 +1,42 @@
-# Slider de Imagens
+# Acordeon - FAC
 
-# Sobre o projeto
+Esta foi a solução para um exercício no qual enfrentei o desafio de criar um acordeão de FAQ no estilo daquele presente no site da Netflix.
 
-https://wmazoni-sds1.netlify.app    
-Um slider de imagens feito para o **estudo da tecnologias utilizadas**.
+## Sumário
 
-É composto por uma série de imagens que apresentam informações progressivamente conforme o usuário avança clicando na seta. Quando chega à última imagem, a seta torna-se opaca, indicando que não é mais possível avançar, o mesmo acontecendo quando se está na primeira imagem.
+- [Visão Geral](#visão-geral)
+  - [Captura de tela](#captura-de-tela)
+  - [Links](#links)
+- [Meu Processo](#meu-processo)
+  - [Construído com](#construído-com)
+  - [O que aprendi](#o-que-aprendi)
+- [Autor](#autor)
 
-## Funcionamento
+## Visão Geral
 
-# Tecnologias utilizadas
-## Front end
-- HTML
-- CSS
-- JS
+### Captura de tela
 
-# Autor
-Matheus Brito da Silva
+![](./src/images/siteFeito.gif)
 
-https://www.linkedin.com/in/matheus-brito06/
+### Links
+
+- [URL do site](https://m4th3us-br1t0.github.io/acordeon-js-simples/)
+
+## Meu Processo
+
+### Construído com
+
+- Marcação HTML5 semântica.
+- Flexbox.
+- Pseudo-classe.
+- Media Queries.
+- Eventos do DOM.
+- Manipulação de elementos do DOM.
+
+### O que aprendi
+
+Neste projeto, pude aprimorar minhas habilidades ao manipular elementos do DOM com JavaScript e trabalhar com eventos.
+
+## Autor
+
+- Linkedin - [Matheus-Brito](https://www.linkedin.com/in/matheus-brito06/)

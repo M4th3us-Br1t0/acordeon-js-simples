@@ -14,9 +14,9 @@ main {
 }
 
 .acordeon {
-    width: 655px;
-    min-height: 347px;
-    box-shadow: 0 27px 49px -25px rgba(0, 0, 0, 0.3);
+    width: 40.9375rem;
+    min-height: 21.6875rem;
+    box-shadow: 0 1.6875rem 3.0625rem -1.5625rem rgba(0, 0, 0, 0.3);
     background-color: #fff;
     display: flex;
     align-items: center;
@@ -26,20 +26,20 @@ main {
 
 .acordeon .ilustracao {
     position: absolute;
-    left: -90px;
-    width: 278px;
-    height: 293px
+    left: -5.625rem;
+    width: 17.375rem;
+    height: 18.3125rem;
 }
 
 .acordeon .conteudo {
     width: 90%;
-    padding-left: 225px;
+    padding-left: 14.0625rem;
 }
 
 .acordeon .conteudo h1 {
-    font-size: 25px;
+    font-size: 1.5625rem;
     font-weight: 700;
-    margin-bottom: 30px;
+    margin-bottom: 1.875rem;
 }
 
 .acordeon .items {
@@ -50,10 +50,10 @@ main {
     cursor: pointer;
     background-image: url(../images/seta_fechada.png);
     background-repeat: no-repeat;
-    background-position: top 8px right 0;
-    background-size: 12px;
-    border-bottom: 1px solid #ccc;
-    margin: 10px 0;
+    background-position: top 0.5rem right 0;
+    background-size: 0.75rem;
+    border-bottom: 0.0625rem solid #ccc;
+    margin: 0.625rem 0;
 }
 
 .acordeon .items .item:last-child {
@@ -61,9 +61,9 @@ main {
 }
 
 .acordeon .items .item .pergunta {
-    padding-bottom: 15px;
+    padding-bottom: 0.9375rem;
     transition: 0.2s ease;
-    font-size: 17px;
+    font-size: 1.0625rem;
     width: 90%;
     font-weight: 500;
 }
@@ -74,8 +74,8 @@ main {
 
 .resposta {
     display: none;
-    padding-bottom: 15px;
-    font-size: 15px;
+    padding-bottom: 0.9375rem;
+    font-size: 0.9375rem;
     font-weight: 300;
 }
 
@@ -83,7 +83,7 @@ main {
 
 .acordeon .items .item.ativo h2 {
     font-weight: 700;
-    font-size: 17px;
+    font-size: 1.0625rem;
 }
 
 .acordeon .items .item.ativo .resposta {
